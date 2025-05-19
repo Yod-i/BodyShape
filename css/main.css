@@ -1,0 +1,8 @@
+/* Base */
+@import "./base/base.css";
+@import "./base/reset.css";
+
+/* Blocks */
+@import "./blocks/header.css";
+@import "./blocks/section.css";
+@import "./blocks/card-trainer.css";
